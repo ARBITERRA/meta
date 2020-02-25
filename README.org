@@ -1,0 +1,5 @@
+* ARBITERRA documentation
+	[[git@github.com:ARBITERRA/meta.git][Arbiterra]] is designed for automatic arbitrage tradings among
+multiple crypto-exchanges.
+
+

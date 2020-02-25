@@ -1,0 +1,9 @@
+[submodule "data-pump"]
+	path = data-pump
+	url = git@github.com:ARBITERRA/data-pump.git
+[submodule "brains"]
+	path = brains
+	url = git@github.com:ARBITERRA/brains.git
+[submodule "trading-bot"]
+	path = trading-bot
+	url = git@github.com:ARBITERRA/trading-bot.git

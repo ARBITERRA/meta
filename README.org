@@ -3,8 +3,8 @@
 multiple crypto-exchanges.
 
 ** Modules
-- Data input module
-- Decision making module
-- Trading bot
+1) Data input module
+2) Decision making module
+3) Trading bot module
 
 

@@ -53,8 +53,8 @@ digraph D {
 [[file:docs/resources/graph.png]]
 
 ** Modules
-1) Data input module
-2) Decision making module
-3) Trading bot module
+1) [[https://github.com/ARBITERRA/data-pump/][Data input module]]
+2) [[https://github.com/ARBITERRA/brains/][Decision making module]]
+3) [[https://github.com/ARBITERRA/trading-bot/][Trading bot module]]
 
 
